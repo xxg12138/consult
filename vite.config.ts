@@ -32,7 +32,7 @@
 //     host: '0.0.0.0' // ← 新增内容 ←
 //   }
 // })
-/// <reference types="vitest/config" />
+// <reference types="vitest/config" />
 
 import { fileURLToPath, URL } from 'node:url'
 
